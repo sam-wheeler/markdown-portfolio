@@ -1,2 +1,2 @@
-* _Quick_
-* __Brown__
+- _Quick_
+- __Brown__
