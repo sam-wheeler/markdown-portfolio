@@ -1,3 +1,3 @@
-- Ice cream
-- Self fulfilment
-- IASIP
+* Ice cream
+* Self fulfilment
+* IASIP
